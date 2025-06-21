@@ -16,6 +16,12 @@ Sales & Customer Dashboard Insights Report
 •	Payment Method Performance (Task 15): [UPI/COD] shows higher net profit. Consider prioritizing or promoting this method in UX.
 
 
+
+![Dashboard Screenshot](https://github.com/pawanichaudharyy/Google-Looker-Studio-Project/raw/main/Screenshot%20(14).png)
+
+
+
+
 📊  Page 2: Product Insights
 (Tasks Covered: 4, 6, 7, 12, 13, 14)
 ✅ Key Insights:
@@ -26,6 +32,9 @@ Sales & Customer Dashboard Insights Report
 •	Sales Breakdown by Discount Range (Task 14): Heavy discount ranges reduced total revenue in some categories — realign discount slabs for better ROI.
 
 
+![Second Screenshot](https://github.com/pawanichaudharyy/Google-Looker-Studio-Project/raw/main/Screenshot%20(15).png)
+
+
 📅 Page 3: Payment & Customer Overview
 (Tasks Covered: 5, 18, 19,15)
 ✅ Key Insights:
@@ -33,6 +42,11 @@ Sales & Customer Dashboard Insights Report
 •	Avg Time to First Order (Task 18): Customers typically place their first order in [X] days. Accelerate engagement within this window.
 •	Repeat vs One-Time Customers (Task 19): [Y%] are repeat customers. Loyalty programs or retention flows can boost this further.
 •	Payment Method Analysis (Task 15): Net profit is highest through [Method X]. Encourage this method with incentives and ease-of-use.
+
+
+
+![Third Screenshot](https://github.com/pawanichaudharyy/Google-Looker-Studio-Project/raw/main/Screenshot%20(16).png)
+
 
 Final conclusion 
 1.	Boost Retention: Create loyalty programs to grow repeat customer base.
