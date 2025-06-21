@@ -23,9 +23,9 @@ Sales & Customer Dashboard Insights Report
 •	Products with Sales Decline (Task 4 & 7): Products like [Product X] dropped most in 2022 vs 2021. These may require liquidation or repositioning.
 •	Average Quantity per Category (Task 12): Highest average quantity sold in [Category A] indicates high demand, worthy of prioritized stock.
 •	Net Profit by Category (Task 13): [Category Y] is the most profitable despite lower sales volume. Focus marketing on margins.
-
-
 •	Sales Breakdown by Discount Range (Task 14): Heavy discount ranges reduced total revenue in some categories — realign discount slabs for better ROI.
+
+
 📅 Page 3: Payment & Customer Overview
 (Tasks Covered: 5, 18, 19,15)
 ✅ Key Insights:
